@@ -1,0 +1,9 @@
+git config --global user.name "Alex"
+git config --global user.email "alex95121@hotmail.com"
+git init
+git status
+git add
+git commit -m "version alfa 1.0"
+git push
+Tarea eliminar un archivo desde el git bash
+Tarea modificar un archivo desde el git bash
