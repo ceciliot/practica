@@ -5,5 +5,3 @@ git status
 git add
 git commit -m "version alfa 1.0"
 git push
-Tarea eliminar un archivo desde el git bash
-Tarea modificar un archivo desde el git bash
